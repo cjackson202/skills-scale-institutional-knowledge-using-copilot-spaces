@@ -26,6 +26,14 @@ Developers design, build, test, and deliver software components. They collaborat
 - PR descriptions and code review comments
 - Technical design docs when needed
 
+### Interactions with Other Roles
+- **Product Managers**: Clarify feature requirements and provide technical feasibility input
+- **Project Managers**: Share progress updates, raise blockers, and participate in planning
+- **Business Analyst**: Ask questions about requirements and acceptance criteria during implementation
+- **UX/UI Lead**: Collaborate on design implementation and provide feedback on feasibility
+- **DevOps Specialist**: Work together on CI/CD improvements and deployment issues
+- **Quality Assurance Lead**: Collaborate on testability, fix bugs, and improve test coverage
+
 ---
 
 ## Product Managers
@@ -48,6 +56,14 @@ Product Managers define what should be built to deliver customer and business va
 - Weekly alignment with PM and engineering leads
 - Roadmap updates and stakeholder briefings
 - Acceptance criteria and feature specs
+
+### Interactions with Other Roles
+- **Developers**: Provide feature requirements and context for technical trade-offs
+- **Project Managers**: Align on priorities, timelines, and scope decisions
+- **Business Analyst**: Collaborate on defining customer needs and validating solutions
+- **UX/UI Lead**: Partner on feature definition and ensure designs solve customer problems
+- **DevOps Specialist**: Support feature flagging and phased rollout strategies
+- **Quality Assurance Lead**: Define acceptance criteria and validate solutions meet quality standards
 
 ---
 
@@ -72,6 +88,14 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Weekly status updates and stakeholder reports
 - Risk registers and decision logs
 - Coordination via project boards and meeting facilitation
+
+### Interactions with Other Roles
+- **Product Managers**: Align on priorities and communicate trade-offs between scope, timeline, and resources
+- **Developers**: Facilitate planning, track progress, and remove blockers
+- **Business Analyst**: Coordinate requirements gathering and scope definition
+- **UX/UI Lead**: Track design timelines and dependencies
+- **DevOps Specialist**: Coordinate deployment schedules and manage infrastructure dependencies
+- **Quality Assurance Lead**: Monitor testing progress and manage release readiness
 
 ---
 
